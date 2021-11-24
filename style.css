@@ -303,6 +303,10 @@ header nav a {
   margin: 1rem 0;
 }
 
+.marketing-container .info-card h1.small {
+  font-size: 3rem;
+}
+
 .testimonials-container {
   display: flex;
   flex-direction: column;
